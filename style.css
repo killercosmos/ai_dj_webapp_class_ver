@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size:  15px;
+    color: black;
+}
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.disk_speed,.disk_volume {
+    width: 200px;
+    border: 10px;
+}
+.div_volume{
+    float: right;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 10px;
+}
