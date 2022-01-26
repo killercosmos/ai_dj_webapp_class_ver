@@ -15,7 +15,7 @@ body{
 .div_speed{
     float: left;
 }
-.disk_speed,.disk_volume {
+.div_speed_img,.div_volume_img {
     width: 200px;
     border: 10px;
 }
